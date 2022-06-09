@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="de.haeckerfelix.Fragments.desktop" score="80" last-seen="1654692652"/>
+    <application id="Alacritty.desktop" score="1636" last-seen="1654741341"/>
+    <application id="org.gnome.Nautilus.desktop" score="56" last-seen="1654741023"/>
+    <application id="org.gnome.Settings.desktop" score="54" last-seen="1654740738"/>
+    <application id="org.gnome.tweaks.desktop" score="36" last-seen="1654619187"/>
+    <application id="firefox.desktop" score="3827" last-seen="1654741078"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="7" last-seen="1654615603"/>
+    <application id="spotify.desktop" score="9" last-seen="1654607695"/>
+    <application id="org.gnome.gedit.desktop" score="2" last-seen="1654605629"/>
+    <application id="org.gnome.Extensions.desktop" score="148" last-seen="1654701290"/>
+    <application id="mpv.desktop" score="769" last-seen="1654711967"/>
+    <application id="org.gnome.Calculator.desktop" score="8" last-seen="1654679208"/>
+    <application id="discord.desktop" score="8" last-seen="1654607350"/>
+    <application id="org.gnome.DiskUtility.desktop" score="0" last-seen="1654702569"/>
+    <application id="imv.desktop" score="6" last-seen="1654702190"/>
+  </context>
+</application-state>

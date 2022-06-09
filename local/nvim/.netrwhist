@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/joel/.config/awesome'
+let g:netrw_dirhist_9='/home/joel/randoms/idyllic-firefox'
+let g:netrw_dirhist_8='/home/joel/Pictures/DTwallpapers'
+let g:netrw_dirhist_7='/home/joel/randoms/oh-my-fish/.git'
+let g:netrw_dirhist_6='/home/joel/Documents/vscode'
+let g:netrw_dirhist_5='/home/joel/Documents'
+let g:netrw_dirhist_4='/home/joel'
+let g:netrw_dirhist_3='/home'
+let g:netrw_dirhist_2='/home/joel'
+let g:netrw_dirhist_1='/home/joel/.config/nvim'
