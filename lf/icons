@@ -75,12 +75,13 @@ fi             # FILE
 *.mk            
 *.jpg           
 *.jpeg          
-*.png			
-*.mov			
+*.png		
+*.mov		
 *.bmp           
 *.webp          
+*.webm          
 *.gif           
-*.mp4			
+*.mp4		
 *.ico           
 *.twig          
 *.cpp           

@@ -6,9 +6,10 @@ set -gx EDITOR nvim
 alias la="exa -la --group-directories-first"
 alias l="exa -l"
 alias u="sudo updatedb"
-alias ..="cd .."
 alias f="lfcd"
 alias yt="ytfzf"
+alias pw="poweroff"
+alias rb="reboot"
 
 #Terminal movement
 alias gh="cd ~"
