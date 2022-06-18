@@ -1,0 +1,31 @@
+1655310414134	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1655311007200	Sync.Service	DEBUG	User-Agent: Firefox/101.0.1 (Linux x86_64) FxSync/1.103.0.20220609170544.desktop
+1655311007201	Sync.Service	INFO	Starting sync at 2022-06-15 22:21:47 in browser session lJLlXdwTtTAU
+1655311007201	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1655311007204	Sync.Status	INFO	Resetting Status.
+1655311007204	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1655311007205	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1655311007205	FirefoxAccounts	DEBUG	getOAuthToken enter
+1655311007205	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1655311007205	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1655311007205	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1655311007773	Sync.Resource	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/196709700/info/collections
+1655311007773	Sync.Service	DEBUG	Fetching server configuration: https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/196709700/info/configuration
+1655311008170	Sync.Resource	DEBUG	GET success 200 https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/196709700/info/configuration
+1655311008171	Sync.Service	DEBUG	Fetching global metadata record
+1655311008171	Sync.Service	DEBUG	Weave Version: 1.103.0 Local Storage: 5 Remote Storage: 5
+1655311008171	Sync.Service	DEBUG	Fetching and verifying -- or generating -- symmetric keys.
+1655311008171	Sync.Service	INFO	Testing info/collections: {"addons":1654943597.23,"crypto":1652110158.67,"passwords":1655026873.66,"meta":1652110172.37,"clients":1655308309.33,"history":1655309774.62,"prefs":1655027440.7,"extension-storage":1655220677.59,"tabs":1655309773.79,"forms":1655309774.21,"bookmarks":1654943577.07}
+1655311008171	Sync.CollectionKeyManager	INFO	Testing for updateNeeded. Last modified: 1652110158.67
+1655311008171	Sync.Synchronizer	DEBUG	Refreshing client list.
+1655311008171	Sync.Status	DEBUG	Status for engine clients: error.engine.reason.unknown_fail
+1655311008171	Sync.Status	DEBUG	Status.service: success.status_ok => error.sync.failed_partial
+1655311008171	Sync.ErrorHandler	DEBUG	clients was interrupted due to the application shutting down
+1655311008171	Sync.Synchronizer	INFO	clients was interrupted by shutdown; no other engines will sync
+1655311008171	Sync.Synchronizer	WARN	Client engine sync failed. Aborting.
+1655311008172	Sync.Declined	DEBUG	Handling remote declined: []
+1655311008172	Sync.Declined	DEBUG	Handling local declined: []
+1655311008172	Sync.Declined	DEBUG	Declined changed? false
+1655311008172	Sync.Service	INFO	No change to declined engines. Not reuploading meta/global.
+1655311008172	Sync.ErrorHandler	ERROR	Some engines did not sync correctly.
+1655311008174	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)

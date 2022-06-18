@@ -1,0 +1,6 @@
+2022/06/18-16:30:31.991 1b55 Creating DB /home/joel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_word-edit.officeapps.live.com_0.indexeddb.leveldb since it was missing.
+2022/06/18-16:30:32.000 1b55 Reusing MANIFEST /home/joel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_word-edit.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/18-16:30:55.407 19df Level-0 table #5: started
+2022/06/18-16:30:55.411 19df Level-0 table #5: 1341 bytes OK
+2022/06/18-16:30:55.414 19df Delete type=0 #3
+2022/06/18-16:30:55.415 19df Manual compaction at level-0 from (begin) .. (end); will stop at (end)

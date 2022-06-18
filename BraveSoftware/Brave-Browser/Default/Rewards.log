@@ -1,0 +1,150 @@
+--------------------------------------------------------------------------------
+[Jun 11, 2022, 4:03:33.0 PM:ERROR:refill_unblinded_tokens.cc(193)] Failed to get signed tokens
+--------------------------------------------------------------------------------
+[Jun 11, 2022, 4:23:32.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 11, 2022, 8:46:39.2 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:46:39.2 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:46:39.8 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:46:41.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 11, 2022, 8:47:52.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 11, 2022, 8:58:44.6 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:58:54.5 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:59:04.5 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:59:16.0 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:59:38.1 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:59:48.1 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 8:59:58.1 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 9:00:18.1 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 9:00:50.1 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_ADDRESS_UNREACHABLE)
+[Jun 11, 2022, 9:00:50.1 PM:ERROR:get_publisher.cc(173)] Unexpected HTTP status: -1
+[Jun 11, 2022, 9:00:50.1 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_ADDRESS_UNREACHABLE)
+[Jun 11, 2022, 9:00:50.1 PM:ERROR:get_publisher.cc(173)] Unexpected HTTP status: -1
+[Jun 11, 2022, 9:00:50.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 11, 2022, 9:00:50.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 11, 2022, 9:01:04.0 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 9:01:38.3 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 9:01:41.3 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_ADDRESS_UNREACHABLE)
+[Jun 11, 2022, 9:01:41.3 PM:ERROR:get_publisher.cc(173)] Unexpected HTTP status: -1
+[Jun 11, 2022, 9:02:19.0 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 11, 2022, 9:03:13.4 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_ADDRESS_UNREACHABLE)
+[Jun 11, 2022, 9:03:13.4 PM:ERROR:get_publisher.cc(173)] Unexpected HTTP status: -1
+[Jun 11, 2022, 9:21:23.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 11, 2022, 9:28:57.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 11, 2022, 9:29:11.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 11, 2022, 9:33:30.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 11, 2022, 9:44:13.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 12, 2022, 3:36:20.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 12, 2022, 6:42:25.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 12, 2022, 6:42:25.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 12, 2022, 8:02:56.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 12, 2022, 8:02:56.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 12, 2022, 9:05:47.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 12, 2022, 9:08:57.5 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Jun 12, 2022, 9:08:57.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 12, 2022, 9:09:39.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 12, 2022, 9:21:39.6 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Jun 12, 2022, 9:21:39.7 PM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Jun 12, 2022, 9:43:02.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 12, 2022, 9:53:40.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 12, 2022, 9:54:18.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 12, 2022, 9:57:53.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 14, 2022, 6:42:10.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 14, 2022, 6:42:10.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 15, 2022, 4:39:57.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 5:10:39.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 15, 2022, 5:42:49.4 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Jun 15, 2022, 5:42:49.4 PM:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[Jun 15, 2022, 5:42:51.1 PM:ERROR:account.cc(264)] Failed to get issuers
+--------------------------------------------------------------------------------
+[Jun 15, 2022, 5:58:03.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 15, 2022, 6:33:37.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 6:37:16.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 6:37:16.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 6:40:09.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 6:51:38.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 15, 2022, 9:15:09.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 15, 2022, 10:02:04.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 10:02:04.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 10:03:45.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 10:05:02.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 15, 2022, 10:05:02.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 16, 2022, 10:07:46.8 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 10:07:46.8 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 10:36:05.3 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 10:36:05.3 AM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 16, 2022, 4:51:29.0 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_NAME_NOT_RESOLVED)
+[Jun 16, 2022, 4:51:29.0 PM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Jun 16, 2022, 4:51:37.0 PM:ERROR:account.cc(264)] Failed to get issuers
+--------------------------------------------------------------------------------
+[Jun 16, 2022, 7:15:08.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 7:15:08.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 16, 2022, 10:01:15.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 10:01:15.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 10:07:11.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 10:09:03.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 10:09:03.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 16, 2022, 10:55:53.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 10:55:53.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 16, 2022, 11:59:29.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 17, 2022, 5:18:14.0 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 17, 2022, 5:18:14.0 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 17, 2022, 5:34:17.9 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 17, 2022, 5:34:17.9 AM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 17, 2022, 9:01:01.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 17, 2022, 9:14:28.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 9:24:47.3 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 9:29:19.5 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 10:00:20.4 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 10:08:38.8 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 10:10:36.8 AM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 12:44:04.3 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Jun 18, 2022, 12:44:04.3 PM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Jun 18, 2022, 1:30:36.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 4:34:01.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 4:36:59.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 5:49:46.9 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 5:50:09.4 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+[Jun 18, 2022, 5:50:58.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 5:50:58.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 6:05:37.2 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 6:10:37.2 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 6:28:25.4 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 6:48:22.1 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 7:07:32.0 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+[Jun 18, 2022, 7:07:59.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 7:07:59.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 7:14:33.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 9:17:10.3 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+--------------------------------------------------------------------------------
+[Jun 18, 2022, 9:26:31.6 PM:ERROR:state.cc(389)] Decryption failed for wallets.uphold
+[Jun 18, 2022, 9:29:35.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jun 18, 2022, 9:29:35.0 PM:ERROR:publisher.cc(774)] Publisher info not found
