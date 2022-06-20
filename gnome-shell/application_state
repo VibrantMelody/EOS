@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-writer.desktop" score="12.002044677734375" last-seen="1655658563"/>
+    <application id="org.gnome.Evince.desktop" score="6.103515625e-05" last-seen="1655518311"/>
+    <application id="org.gnome.tweaks.desktop" score="5.00048828125" last-seen="1655658979"/>
+    <application id="brave-browser.desktop" score="2077.7236938476562" last-seen="1655663169"/>
+    <application id="firewall-config.desktop" score="0.000152587890625" last-seen="1655551602"/>
+    <application id="imv.desktop" score="6.103515625e-05" last-seen="1655345031"/>
+    <application id="org.gnome.eog.desktop" score="6.103515625e-05" last-seen="1655345228"/>
+    <application id="libreoffice-startcenter.desktop" score="2.000030517578125" last-seen="1655658562"/>
+    <application id="org.gnome.Nautilus.desktop" score="4.00054931640625" last-seen="1655658963"/>
+    <application id="org.pwmt.zathura.desktop" score="75.0035400390625" last-seen="1655552006"/>
+    <application id="libreoffice-draw.desktop" score="0.000213623046875" last-seen="1655346069"/>
+    <application id="mpv.desktop" score="426.0008544921875" last-seen="1655596767"/>
+    <application id="Alacritty.desktop" score="21378.625305175781" last-seen="1655662599"/>
+    <application id="firefox.desktop" score="50.00860595703125" last-seen="1655658432"/>
+    <application id="org.gnome.DiskUtility.desktop" score="21" last-seen="1655654428"/>
+    <application id="io.github.realmazharhussain.GdmSettings.desktop" score="0.000213623046875" last-seen="1655344802"/>
+    <application id="org.gnome.Extensions.desktop" score="0.000152587890625" last-seen="1655290550"/>
+    <application id="org.gnome.Settings.desktop" score="25.501220703125" last-seen="1655593666"/>
+  </context>
+</application-state>

@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/joel/.config/fish'
 let g:netrw_dirhist_7='/home/joel/Important/EOS/local/nvim/plugged/vim-lf/plugin'
 let g:netrw_dirhist_6='/home/joel/Important/EOS/local/nvim/plugged/vim-lf'
 let g:netrw_dirhist_5='/home/joel/.config/nvim'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_2='/home/joel/Documents'
 let g:netrw_dirhist_1='/home/joel/Documents/Notes'
 let g:netrw_dirhist_0='/home/joel/Documents/justascript'
 let g:netrw_dirhist_9='/home/joel/Documents'
-let g:netrw_dirhist_8='/home/joel'
