@@ -30,7 +30,9 @@ vnoremap <tab> %
 
 inoremap jk <Esc>
 nnoremap j gj
+vnoremap j gj
 nnoremap k gk
+vnoremap k gk
 inoremap zz <Esc>zzi<right>
 inoremap <A-h> <C-h>
 

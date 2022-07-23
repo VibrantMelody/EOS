@@ -16,13 +16,16 @@ cmd mkfile ${{
 }}
 
 #custom open function
-#cmd open ${{
-#    test -L $f && f=$(redlink -f $f)
-#    case $(file --mime-type $f -b) in
-#        text/*) $EDITOR $fx;;
-#	*) for f in $fx; do setsid $OPENER $f > /dev/null 2> /dev/null & done;;
-#    esac
-#}}
+cmd open ${{
+    test -L $f && f=$(redlink -f $f)
+    case $(file --mime-type $f -b) in
+        text/*) $EDITOR $f;;
+        application/*) zathura $fx;;
+        video/*) mpv $fx;;
+        image/*) imv $fx;;
+	*) for f in $fx; do setsid $OPENER $f > /dev/null 2> /dev/null & done;;
+    esac
+}}
 
 
 # Archive bindings
@@ -70,3 +73,4 @@ map gd cd ~/Downloads
 map gc cd ~/.config
 map gh cd ~
 map gH cd /
+map gm cd /run/mount/

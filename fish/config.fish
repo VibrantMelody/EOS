@@ -10,6 +10,8 @@ alias f="lfcd"
 alias yt="ytfzf"
 alias pw="poweroff"
 alias rb="reboot"
+alias mount="sudo mount /dev/nvme0n1p4 /run/mount/"
+alias umount="sudo umount /dev/nvme0n1p4"
 
 #Terminal movement
 alias gh="cd ~"
@@ -17,6 +19,7 @@ alias gH="cd /"
 alias gd="cd ~/Downloads"
 alias gD="cd ~/Documents"
 alias gc="cd ~/.config"
+alias gm="cd /run/mount/"
 
 #Functions needed for !! and !$
 #Will only work in defaultmode (Emacs only)

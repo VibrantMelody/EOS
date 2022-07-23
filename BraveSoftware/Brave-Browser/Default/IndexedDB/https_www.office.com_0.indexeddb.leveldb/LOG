@@ -1,2 +1,3 @@
-2022/06/18-08:03:51.496 c6d Creating DB /home/joel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb since it was missing.
-2022/06/18-08:03:51.507 c6d Reusing MANIFEST /home/joel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/28-20:51:26.133 820 Reusing MANIFEST /home/joel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/28-20:51:26.134 820 Recovering log #3
+2022/06/28-20:51:26.135 820 Reusing old log /home/joel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000003.log 

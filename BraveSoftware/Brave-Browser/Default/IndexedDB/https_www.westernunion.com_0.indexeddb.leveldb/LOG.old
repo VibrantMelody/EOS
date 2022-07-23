@@ -1,0 +1,6 @@
+2022/07/09-17:29:57.427 15a4 Creating DB /home/joel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.westernunion.com_0.indexeddb.leveldb since it was missing.
+2022/07/09-17:29:57.438 15a4 Reusing MANIFEST /home/joel/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.westernunion.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/09-17:30:30.825 15a4 Level-0 table #5: started
+2022/07/09-17:30:30.828 15a4 Level-0 table #5: 1398 bytes OK
+2022/07/09-17:30:30.831 15a4 Delete type=0 #3
+2022/07/09-17:30:30.831 15a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
